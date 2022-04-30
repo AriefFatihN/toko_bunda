@@ -1,0 +1,92 @@
+.sidenav {
+	overflow-y: scroll;
+}
+
+.sidenav::-webkit-scrollbar {
+	display: none;
+}
+
+.sidenav {
+	-ms-overflow-style: none;
+	scrollbar-width: none;
+}
+
+.nav-icon {
+	margin-left: 7px;
+	font-size: large !important;
+}
+
+h6,
+.h6 {
+	margin-top: 0.5rem;
+	margin-bottom: unset;
+}
+
+.footer-spacing {
+	justify-content: space-between;
+}
+
+.no-mb {
+	margin-bottom: 0.25rem;
+}
+
+p.no-mb {
+	margin-bottom: unset;
+}
+
+.pl-2 {
+	padding-left: 2em;
+}
+
+.ml-mr-2 {
+	margin-left: 1.5rem;
+	margin-right: 1.5rem;
+}
+
+i.small {
+	font-size: small !important;
+}
+
+img.square {
+	width: 120px;
+}
+
+.mini-ml {
+	margin-left: 0.75em;
+	margin-right: 0.75em;
+}
+
+button.reset {
+	display: inline-flex;
+}
+
+button.submit {
+	display: inline-flex;
+	float: right;
+}
+
+.btn.no-mb {
+	margin-bottom: unset;
+}
+
+label.mb-auto {
+	margin-bottom: auto;
+}
+
+.pt-mini {
+	padding-top: 1.5rem !important;
+}
+
+.pagi {
+	margin-right: 1.5rem;
+	font-size: small;
+}
+
+span.text-green {
+	color: lime;
+	font-weight: bold;
+}
+
+.text-gray {
+	color: gray;
+}
